@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+  } 
+  body {
+    font-family: 'Open Sans', Verdana, sans-serif; background-color: lightblue
+    ;display: flex; flex-direction: column; min-height: 100vh; padding: 0px;
+  } 
+  h1 {color: darkblue; margin-left: 10px;
+}
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0px;
+  } 
+  header {
+    background-color: aqua;
+}
